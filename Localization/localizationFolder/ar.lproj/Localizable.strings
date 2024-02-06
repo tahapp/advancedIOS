@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by ben hussain on 11/25/23.
+  
+*/
+
+"password" = "كلمة العبور";
+"username" = "الاسم المستعار";
+"secure password" = "أخفى كلمة العبور";
+"change security" = "تغير الامن";
+"login" = "تسجيل دخول";
+"not found" = "غير موجود";
+"user name could not be found" = "وعووووة قبركك ميت اقبرك";
+"ok" = "تمام";
